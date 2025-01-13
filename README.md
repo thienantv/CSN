@@ -8,7 +8,7 @@
 
 **Giảng viên hướng dẫn:** TS. Nguyễn Bảo Ân
 
-Ở đây gồm các file/floder như:
+**Ở đây gồm các file/floder như:**
 - file PDF Báo cáo
 - file PDF tài liệu biên soạn lập trình Python cơ bản
 - file Powerpoint thuyết trình báo cáo
